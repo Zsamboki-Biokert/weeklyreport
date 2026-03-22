@@ -19,3 +19,4 @@ All data is processed locally in your browser. Nothing is sent to any server.
 1. Download the updated `index.html` from Claude
 2. Replace the file in this repo (drag and drop on GitHub or use `git`)
 3. GitHub Pages will redeploy automatically within ~30 seconds
+4. 
